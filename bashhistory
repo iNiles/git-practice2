@@ -1,0 +1,69 @@
+git bash help
+cat editor.md 
+git checkout A
+git branch -f HEAD~3
+git branch -f A HEAD~3
+clear 
+git log
+git branch 
+git branch -f HEAD~3
+git branch -f --f
+git branch -f A HEAD~3
+git log
+git show-ref head
+git show-ref --head
+
+git branch -f A HEAD~2
+git branch -f A^^^ 
+git branch -f A ^^^ 
+git branch -f A origin/A~3
+git checkout A
+git branch -f A HEAD~2
+git log
+git branch -f A HEAD ~3
+git branch -f A 95cbf4a12d20507ae4131be6aa58f7f54fd4de03
+git branch -f 95cbf4a12d20507ae4131be6aa58f7f54fd4de03
+git branch
+git show-ref HEAD
+git show-ref --head
+git show-branch
+git checkout C
+ls
+cd branch-C-work/
+ls
+cd..
+cd ..
+git merge B
+git checkout master
+git remote
+git add remote add gh/gitpractice
+git add remote add gh/gitpractice https://github.com/iNiles/git-practice
+git remote add gh/gitpractice https://github.com/iNiles/git-practice
+git status
+git repo
+git remote
+git pull gh/gitpractice 
+git branch
+
+git checkout C
+ls
+branch-C-work/
+ls
+cd branch-C-work/
+ls
+cd ..
+git log
+git checkout B
+ls
+git checkout B; 
+git checkout C
+git merge B 
+git config --global user.name "fake@email.com"
+git config --global user.email "fake@email.com"
+git merge B 
+git checkout
+git checkout alter-readme
+ls
+git checkout C
+ls
+exit
